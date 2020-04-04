@@ -255,26 +255,26 @@
 		"ReverseButtonTempChange": {
 			"text": "RVTCHG",
 			"text2": [
-				"Key +-",
-				"reverse?"
+				"Кнопки +-",
+				"поменять?"
 			],
-			"desc": "Reverse the tip temperature change buttons plus minus assignment."
+			"desc": "Меняет расположение кнопок плюс минус для настройки темепратуры."
 		},
 		"TempChangeShortStep": {
 			"text": "TCHGST",
 			"text2": [
-				"Temp change",
-				"short?"
+				"Темп. измен.",
+				"короткое?"
 			],
-			"desc": "Temperature change steps on short button press!"
+			"desc": "Шаг изменения температуры по короткому нажатию!"
 		},
 		"TempChangeLongStep": {
 			"text": "TCHGLT",
 			"text2": [
-				"Temp change",
-				"long?"
+				"Темп. измен.",
+				"долгое?"
 			],
-			"desc": "Temperature change steps on long button press!"
+			"desc": "Шаг изменения температуры по долгому нажатию!"
 		}
 	}
 }
